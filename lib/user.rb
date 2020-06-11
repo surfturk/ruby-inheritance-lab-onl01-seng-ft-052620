@@ -1,4 +1,4 @@
-def Class User
+Class User
   attr_accessor :first_name, :last_name
   
   
